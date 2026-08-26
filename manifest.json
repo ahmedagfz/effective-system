@@ -1,0 +1,18 @@
+{
+  "name": "Street Brawler Run - 3D Co-op",
+  "short_name": "StreetBrawler",
+  "description": "3D Multiplayer Sunset Co-op Platformer Game with Boss Battles",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0f172a",
+  "theme_color": "#38bdf8",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
